@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible"content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dark Horror Story Blog</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <h1>Dark Horror Story Blog</h1>
+</header>
+
+<nav>
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Stories</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+</nav>
+
+<main>
+  <article>
+    <h2>The Shadow in the Woods</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur neque id sapien scelerisque, non aliquet nunc consequat. Aenean et pretium turpis. Mauris nec neque ac massa tempor tincidunt sit amet eget metus.</p>
+    <p>Curabitur at felis a justo fermentum vehicula nec id enim. Phasellus tempus lectus nisl, nec luctus dolor viverra sit amet. Nam nec justo ac tellus malesuada tincidunt. Duis eget pretium nunc.</p>
+  </article>
+</main>
+
+<footer>
+  <p>© 2023 Dark Horror Story Blog | All Rights Reserved</p>
+</footer>
+</body>
+</html>
